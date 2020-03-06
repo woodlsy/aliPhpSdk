@@ -1,0 +1,15 @@
+{
+    "name": "woodlsy/aliPhpSdk",
+    "description": "ali api sdk",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "woodlsy/http-client": "^0.1.5"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "woodlsy\\pay\\": "/"
+        }
+    }
+}
