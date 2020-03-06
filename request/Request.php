@@ -1,5 +1,5 @@
 <?php
-namespace woodlsy\request;
+namespace woodlsy\aliPhpSdk\request;
 
 abstract class Request
 {

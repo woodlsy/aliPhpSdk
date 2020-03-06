@@ -1,5 +1,5 @@
 <?php
-namespace woodlsy\request;
+namespace woodlsy\aliPhpSdk\request;
 
 use woodlsy\httpClient\HttpCurl;
 

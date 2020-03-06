@@ -1,7 +1,7 @@
 <?php
-namespace woodlsy\request\hand;
+namespace woodlsy\aliPhpSdk\request\hand;
 
-use woodlsy\request\Request;
+use woodlsy\aliPhpSdk\request\Request;
 
 class WirelessShareTpwdQueryRequest extends Request
 {
